@@ -1,3 +1,2 @@
 Teste de git init
-adicionei linha 2 no PC
 Nova linha de teste
