@@ -1,0 +1,2 @@
+Teste de git init
+Nova linha de teste
